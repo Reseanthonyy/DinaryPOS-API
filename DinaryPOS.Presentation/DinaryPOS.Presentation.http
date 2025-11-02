@@ -1,0 +1,6 @@
+@DinaryPOS.Presentation_HostAddress = http://localhost:5051
+
+GET {{DinaryPOS.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

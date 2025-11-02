@@ -1,34 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinaryPOS.Infraestructura", "DinaryPOS.Infraestructura\DinaryPOS.Infraestructura.csproj", "{956DC9CE-6452-45FA-9E67-4681DDAEA1DE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinaryPOS.Dominio", "DinaryPOS.Dominio\DinaryPOS.Dominio.csproj", "{4BFA8248-C349-4BCD-A23C-E905041EE886}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinaryPOS.Negocio", "DinaryPOS.Negocio\DinaryPOS.Negocio.csproj", "{F23693B8-2514-4A2A-8710-9AE104A30E64}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinaryPOS.Presentation", "DinaryPOS.Presentation\DinaryPOS.Presentation.csproj", "{0815385C-C51B-49AF-B0F1-A3C62D336747}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{956DC9CE-6452-45FA-9E67-4681DDAEA1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{956DC9CE-6452-45FA-9E67-4681DDAEA1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{956DC9CE-6452-45FA-9E67-4681DDAEA1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{956DC9CE-6452-45FA-9E67-4681DDAEA1DE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4BFA8248-C349-4BCD-A23C-E905041EE886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4BFA8248-C349-4BCD-A23C-E905041EE886}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4BFA8248-C349-4BCD-A23C-E905041EE886}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4BFA8248-C349-4BCD-A23C-E905041EE886}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F23693B8-2514-4A2A-8710-9AE104A30E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F23693B8-2514-4A2A-8710-9AE104A30E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F23693B8-2514-4A2A-8710-9AE104A30E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F23693B8-2514-4A2A-8710-9AE104A30E64}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0815385C-C51B-49AF-B0F1-A3C62D336747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0815385C-C51B-49AF-B0F1-A3C62D336747}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0815385C-C51B-49AF-B0F1-A3C62D336747}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0815385C-C51B-49AF-B0F1-A3C62D336747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
